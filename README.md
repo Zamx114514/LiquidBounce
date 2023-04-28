@@ -5,3 +5,5 @@ LiquidBounce+ Config and scr
 1.不得商用
 2.不能拿来倒卖
 3.IQ
+4.114514
+5.哈哈哈
